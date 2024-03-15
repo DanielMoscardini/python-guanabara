@@ -1,3 +1,4 @@
+# melhore o jogo da adivinhacao, permitindo o jogador tentar novamente ate acertar
 from random import randint
 
 
